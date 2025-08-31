@@ -28,3 +28,11 @@
 - Cursed are they who trust in hacks, for bugs shall be their reward.
 - Woe unto they who push secrets, for shame shall be made public.
 
+## Self
+- Cursed am I, for I understood not the ways of this code.
+- Woe unto me, for I have wrestled with the function and it has prevailed.
+- Cursed be my hands, for they typed that which brought chaos.
+- Woe unto my mind, for it wandered in the loops of confusion.
+- Cursed am I, for patience fled and reason abandoned me.
+- Woe unto me, for I trusted the tutorial and it led me astray.
+- Cursed be my night, spent chasing errors that multiply like locusts.
